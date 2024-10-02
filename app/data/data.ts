@@ -66,6 +66,32 @@ export const coursesData = [
       category: "Software",
     },
   ];
+
+
+  export const reviewsData = [
+    {
+      id:1,
+      image:"/images/r1.jpg",
+      name:"Jéssica Camila",
+      role:"Desenvolvedora",
+      review:"Os cursos da plataforma são completos e fáceis de entender. Os professores explicam com clareza, e o material de apoio é excelente. Estou muito satisfeito com meu progresso."
+    },
+    {
+      id:2,
+      image:"/images/r2.jpg",
+      name:"Henrique Marques",
+      role:"Desenvolvedor backend",
+      review:"A plataforma superou minhas expectativas. O conteúdo é atualizado, e os instrutores são muito qualificados. Consegui aplicar o que aprendi imediatamente no meu trabalho. Recomendo demais!"
+    },
+    {
+      id:3,
+      image:"/images/r3.jpg",
+      name:"Anderson Sales",
+      role:"Desenvolvedor Node.js",
+      review:"A plataforma oferece um ótimo ambiente de aprendizado. Os cursos são bem organizados e o suporte ao aluno é impecável. Tive uma ótima experiência e recomendo para todos."
+    }
+
+  ]
   
   export const articleData = [
     {
