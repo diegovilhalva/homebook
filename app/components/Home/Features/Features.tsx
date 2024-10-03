@@ -2,7 +2,7 @@
 
 import Image from 'next/image'
 import React from 'react'
-import { FaAward, FaBriefcase } from 'react-icons/fa6'
+import {  FaBriefcase } from 'react-icons/fa6'
 import Tilt from "react-parallax-tilt"
 const Features = () => {
   return (
