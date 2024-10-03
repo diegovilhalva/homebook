@@ -5,7 +5,7 @@ type Props ={
     name:string
     image:string
     role:string
-    review:String
+    review:string
 }
 
 const SliderCart = ({image,name,role,review}:Props) => {
