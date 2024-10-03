@@ -5,7 +5,7 @@ const About = () => {
   return (
     <div className='pt-16 pb-16 '>
         <div className="w-4/5 mx-auto grid grid-cols-1 lg:grid-cols-2 items-center gap-16">
-            <div className="">
+            <div className="" data-aos="fade-right" data-aos-anchor-placement="top-center" >
                 <div className="flex items-center space-x-4">
                     <div className="w-12 h-12 bg-rose-600 rounded-full flex items-center justify-center flex-col">
                         <FaAward className='h-6 w-6 text-white' />
@@ -19,7 +19,7 @@ const About = () => {
                     <FaArrowRight />
                 </button>
             </div>
-            <div className="">
+            <div className="" data-aos="fade-left" data-aos-anchor-placement="top-center" data-aos-delay="150">
                 <div className="">
                     <h1 className='text-7xl lg:text-9xl font-semibold  text-black text-opacity-5'>
                         01
