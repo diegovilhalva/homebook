@@ -40,7 +40,7 @@ const Footer = () => {
                     <h1 className='footer_heading'>
                         Inscreva-se na nossa Newsletter
                     </h1>
-                    <input type="email"  placeholder='Digite seu e-mail' className='px-6 py-2 rounded-lg outline-none bg-gray-700 w-full text-white' />
+                    <input type="email" placeholder='Digite seu e-mail' className='px-6 py-2 rounded-lg outline-none bg-gray-700 w-full text-white' />
                     <button className='px-6 py-2 mt-4 rounded-lg outline-none bg-rose-700 w-full text-white'>Inscrever</button>
                 </div>
 
