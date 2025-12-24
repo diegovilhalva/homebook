@@ -1,9 +1,3 @@
-Claro! Abaixo está um **README completo em português**, bem estruturado e pronto para você usar no repositório do **Homebook**. Ele é adequado para projetos profissionais em **Next.js + TailwindCSS + TypeScript** e combina bem com o nível dos seus projetos recentes 👌
-
-Você pode copiar e colar direto no `README.md`.
-
-
-
 # 📚 Homebook
 
 **Homebook** é uma landing page de uma plataforma de cursos online, desenvolvida com foco em **performance**, **design moderno** e **experiência do usuário**. O projeto simula a página inicial de uma edtech, apresentando cursos, proposta de valor e chamada para ação de forma clara e responsiva.
