@@ -1,36 +1,105 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Claro! Abaixo está um **README completo em português**, bem estruturado e pronto para você usar no repositório do **Homebook**. Ele é adequado para projetos profissionais em **Next.js + TailwindCSS + TypeScript** e combina bem com o nível dos seus projetos recentes 👌
 
-## Getting Started
+Você pode copiar e colar direto no `README.md`.
 
-First, run the development server:
+
+
+# 📚 Homebook
+
+**Homebook** é uma landing page de uma plataforma de cursos online, desenvolvida com foco em **performance**, **design moderno** e **experiência do usuário**. O projeto simula a página inicial de uma edtech, apresentando cursos, proposta de valor e chamada para ação de forma clara e responsiva.
+
+🔗 **Deploy:** [https://homebook-ten.vercel.app/](https://homebook-ten.vercel.app/)
+💻 **Repositório:** [https://github.com/diegovilhalva/homebook](https://github.com/diegovilhalva/homebook)
+
+---
+
+## ✨ Funcionalidades
+
+* 🎓 Landing page para plataforma de cursos online
+* 📱 Layout totalmente responsivo
+* ⚡ Renderização rápida com Next.js
+* 🎨 Estilização moderna com Tailwind CSS
+* 🧩 Componentes reutilizáveis
+* 🔒 Tipagem estática com TypeScript
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+* **Next.js** – Framework React para aplicações web modernas
+* **TypeScript** – Tipagem estática para maior segurança e escalabilidade
+* **Tailwind CSS** – Estilização utilitária e responsiva
+* **Vercel** – Deploy e hospedagem
+
+---
+
+## 📂 Estrutura do Projeto
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+homebook/
+├── public/          # Assets estáticos
+├── src/
+│   ├── app/         # App Router do Next.js
+│   ├── components/  # Componentes reutilizáveis
+│   └── styles/      # Estilos globais
+├── tailwind.config.ts
+├── tsconfig.json
+└── package.json
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🚀 Como Executar o Projeto Localmente
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### Pré-requisitos
 
-## Learn More
+* Node.js (versão 18 ou superior)
+* npm ou yarn
 
-To learn more about Next.js, take a look at the following resources:
+### Passos
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```bash
+# Clone o repositório
+git clone https://github.com/diegovilhalva/homebook.git
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+# Entre na pasta do projeto
+cd homebook
 
-## Deploy on Vercel
+# Instale as dependências
+npm install
+# ou
+yarn install
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+# Inicie o servidor de desenvolvimento
+npm run dev
+# ou
+yarn dev
+```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+A aplicação estará disponível em:
+👉 `http://localhost:3000`
+
+---
+
+## 🎯 Objetivo do Projeto
+
+Este projeto foi criado com o objetivo de:
+
+* Praticar **Next.js com App Router**
+* Aplicar **Tailwind CSS** em um layout realista
+* Desenvolver uma landing page com padrão profissional
+* Servir como **projeto de portfólio**
+
+
+
+
+## 👤 Autor
+
+Desenvolvido por **Diego Vilhalva** 👋
+💼 Desenvolvedor Web
+
+
+
+
+* deixá-lo mais **corporativo**
+* ou ajustá-lo para combinar com outros projetos seus (Job Hunt, TrimFlow, etc.)
