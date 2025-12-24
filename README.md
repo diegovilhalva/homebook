@@ -1,92 +1,67 @@
-# 📚 Homebook
+P## Homebook
 
-**Homebook** é uma landing page de uma plataforma de cursos online, desenvolvida com foco em **performance**, **design moderno** e **experiência do usuário**. O projeto simula a página inicial de uma edtech, apresentando cursos, proposta de valor e chamada para ação de forma clara e responsiva.
+Landing page de uma **plataforma de cursos online**, desenvolvida com **Next.js**, **TypeScript** e **Tailwind CSS**.
+O projeto tem foco em **design moderno**, **responsividade** e **boas práticas de frontend**, servindo como peça de portfólio.
 
 🔗 **Deploy:** [https://homebook-ten.vercel.app/](https://homebook-ten.vercel.app/)
-💻 **Repositório:** [https://github.com/diegovilhalva/homebook](https://github.com/diegovilhalva/homebook)
+📦 **Repositório:** [https://github.com/diegovilhalva/homebook](https://github.com/diegovilhalva/homebook)
 
 ---
 
-## ✨ Funcionalidades
+## Tecnologias
 
-* 🎓 Landing page para plataforma de cursos online
-* 📱 Layout totalmente responsivo
-* ⚡ Renderização rápida com Next.js
-* 🎨 Estilização moderna com Tailwind CSS
-* 🧩 Componentes reutilizáveis
-* 🔒 Tipagem estática com TypeScript
+* Next.js (App Router)
+* TypeScript
+* Tailwind CSS
+* Vercel
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Funcionalidades
 
-* **Next.js** – Framework React para aplicações web modernas
-* **TypeScript** – Tipagem estática para maior segurança e escalabilidade
-* **Tailwind CSS** – Estilização utilitária e responsiva
-* **Vercel** – Deploy e hospedagem
+* Layout responsivo
+* Seções típicas de uma edtech (hero, cursos, proposta de valor)
+* Componentes reutilizáveis
+* Estilização utilitária com Tailwind
+* Tipagem estática com TypeScript
 
 ---
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```bash
-homebook/
-├── public/          # Assets estáticos
-├── src/
-│   ├── app/         # App Router do Next.js
-│   ├── components/  # Componentes reutilizáveis
-│   └── styles/      # Estilos globais
-├── tailwind.config.ts
-├── tsconfig.json
-└── package.json
+src/
+├── app/          # Rotas e layout (App Router)
+├── components/   # Componentes reutilizáveis
+├── styles/       # Estilos globais
+public/           # Assets estáticos
 ```
 
 ---
 
-## 🚀 Como Executar o Projeto Localmente
-
-### Pré-requisitos
-
-* Node.js (versão 18 ou superior)
-* npm ou yarn
-
-### Passos
+## Como rodar o projeto
 
 ```bash
-# Clone o repositório
 git clone https://github.com/diegovilhalva/homebook.git
-
-# Entre na pasta do projeto
 cd homebook
-
-# Instale as dependências
 npm install
-# ou
-yarn install
-
-# Inicie o servidor de desenvolvimento
 npm run dev
-# ou
-yarn dev
 ```
 
-A aplicação estará disponível em:
-👉 `http://localhost:3000`
+A aplicação ficará disponível em `http://localhost:3000`.
 
 ---
 
-## 🎯 Objetivo do Projeto
+## Objetivo
 
-Este projeto foi criado com o objetivo de:
-
-* Praticar **Next.js com App Router**
+* Consolidar o uso do **Next.js App Router**
 * Aplicar **Tailwind CSS** em um layout realista
 * Desenvolver uma landing page com padrão profissional
-* Servir como **projeto de portfólio**
+* Projeto voltado para **portfólio frontend**
 
+---
 
+## Autor
 
-
-## 👤 Autor
-
-Desenvolvido por **Diego Vilhalva** 👋
+**Diego Vilhalva**
+Desenvolvedor Web
