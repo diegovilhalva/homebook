@@ -1,4 +1,4 @@
-P## Homebook
+## Homebook
 
 Landing page de uma **plataforma de cursos online**, desenvolvida com **Next.js**, **TypeScript** e **Tailwind CSS**.
 O projeto tem foco em **design moderno**, **responsividade** e **boas práticas de frontend**, servindo como peça de portfólio.
