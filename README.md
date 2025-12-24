@@ -90,10 +90,3 @@ Este projeto foi criado com o objetivo de:
 ## 👤 Autor
 
 Desenvolvido por **Diego Vilhalva** 👋
-💼 Desenvolvedor Web
-
-
-
-
-* deixá-lo mais **corporativo**
-* ou ajustá-lo para combinar com outros projetos seus (Job Hunt, TrimFlow, etc.)
